@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int low,high;//THE RANGE IS STORED IN low AND high variables
@@ -6,3 +6,4 @@ int main()
 	//START WRITING YOUR CODE FROM HERE
 	return 0;
 }
+

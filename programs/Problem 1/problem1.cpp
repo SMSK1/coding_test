@@ -1,4 +1,4 @@
-﻿#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -11,3 +11,4 @@ int main()
     //START WRITING YOUR CODE FROM HERE
 	return 0;
 }
+
