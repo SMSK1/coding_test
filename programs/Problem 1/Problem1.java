@@ -12,11 +12,3 @@ public class Problem1
 		//START WRITING YOUR CODE FROM HERE
 	}
 }
-
-
-
-
-
-
-
-

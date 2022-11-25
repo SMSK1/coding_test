@@ -1,4 +1,4 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 int main()
 {
         int length;// LENGTH OF THE ARRAY IS ST>
@@ -9,4 +9,3 @@ int main()
     //START WRITING YOUR CODE FROM HERE
         return 0;
 }
-
